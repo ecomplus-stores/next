@@ -1,24 +1,24 @@
-{ 
-  "repository": "ecomplus-stores/next",
-  "store_id": 1285,
-  "name": "next",
+{
   "domain": "next.netlify.app",
-  "short_name": "next",
-  "description": "next",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/next",
+  "logo": "/img/uploads/clause-215513_960_720-removebg-preview.png",
+  "name": "Escritório de Advocacia Santiago",
+  "short_name": "Adv. Santiago",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/clause-215513_960_720-removebg-preview.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1285,
+  "description": "A partir da avaliação de experientes advogados, surgiu assim uma proposta com o objetivo de prestar a seus clientes uma assessoria transparente, ética e eficiente.\n\nOferecemos a nossos clientes uma atuação full service, com resultados personalizados, no intuito de obter um melhor planejamento e execução na atividade empresarial.",
+  "large_icon": "/img/large-icon.png"
 }
