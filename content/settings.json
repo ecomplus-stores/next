@@ -1,4 +1,5 @@
-{
+{ 
+  "repository": "ecomplus-stores/next",
   "store_id": 1285,
   "name": "next",
   "domain": "next.netlify.app",
